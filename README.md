@@ -1,31 +1,209 @@
-<h1 align="center">Hi 👋, I'm Ankit Seth</h1>
-<h3 align="center">🔐 Aspiring Cloud Security Engineer | Exploring Cybersecurity, Cloud & AI — Building, Learning, and Securing. 🚀</h3>
+# 👋 Hi, I'm Ankit Seth
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitseth14&label=Profile%20views&color=0e75b6&style=flat" alt="ankitseth14" /> </p>
+<h3 align="center">
+🔐 Aspiring Cloud Security Engineer | Exploring Cybersecurity, Cloud & AI — Building, Learning, and Securing 🚀
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitseth14" alt="ankitseth14" /></a> </p>
-
-- 🌱 I’m currently learning **Cloud, Cybersecurity, NS-3, Sumo**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ankitSeth14](https://github.com/ankitSeth14)
-
-- 📫 How to reach me **sethankit413@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HTa1Vs9kRzMGa3cDxzeOp1RKhMBOFfsi/view?usp=sharing](https://drive.google.com/file/d/1HTa1Vs9kRzMGa3cDxzeOp1RKhMBOFfsi/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankit seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit seth" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit.seth.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit.seth.73" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/seankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="seankit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankitseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitseth" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitseth14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ankitseth14?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitseth14&show_icons=true&locale=en&layout=compact" alt="ankitseth14" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitseth14&show_icons=true&locale=en" alt="ankitseth14" /></p>
+- 🎓 Computer Science Engineering student
+- 🔐 Aspiring **Cloud Security Engineer**
+- ☁️ Currently exploring **Cloud Computing & Cloud Security**
+- 🛡️ Interested in **Cybersecurity, Network Security, and Ethical Hacking**
+- 🤖 Exploring **AI, Machine Learning, and Intelligent Systems**
+- 🚗 Working with **NS-3, SUMO, VANETs, and research simulations**
+- 🌱 Constantly learning, building, experimenting, and improving
+- 📫 Reach me at **sethankit413@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitseth14&" alt="ankitseth14" /></p>
+---
+
+## 🧠 My Current Focus
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Security+%E2%98%81%EF%B8%8F;Cybersecurity+%F0%9F%94%90;Networking+%F0%9F%8C%90;AI+%26+Machine+Learning+%F0%9F%A4%96;Research+%26+Simulation+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ankitseth14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ankit.seth.73" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sethankit413@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ankitseth" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/seankit" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ☁️ Cloud & Cybersecurity
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,matlab" />
+</p>
+
+### 🔬 Research & Simulation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NS--3-Network%20Simulator-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SUMO-Traffic%20Simulation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VANET-Wireless%20Networks-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankitseth14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitseth14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitseth14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitseth14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitseth14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these with your actual repository names and descriptions -->
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cloud Security Projects
+
+Projects focused on cloud security, cybersecurity, infrastructure security, and security automation.
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Intelligent Systems
+
+Projects involving artificial intelligence, machine learning, intelligent automation, and data-driven systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 VANET & Network Research
+
+Research and simulations involving NS-3, SUMO, routing protocols, Age of Information, and vehicular networks.
+
+</td>
+<td width="50%">
+
+### 💻 Software Development
+
+Applications, tools, web projects, experiments, and solutions built while learning and developing.
+
+</td>
+</tr>
+</table>
+
+<!-- Add actual pinned repositories here after selecting your featured projects -->
+
+<p align="center">
+  <a href="https://github.com/ankitseth14?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0096D6?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF9900?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 💡 My Philosophy
+
+<p align="center">
+  <i>"Learn continuously. Build relentlessly. Secure everything."</i>
+</p>
+
+<p align="center">
+  🚀 Building my skills one project at a time.
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</p>
