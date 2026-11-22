@@ -21,7 +21,7 @@
 - 🚗 Working with **NS-3, SUMO, VANETs, and research simulations**
 - 🌱 Constantly learning, building, experimenting, and improving
 - 📫 Reach me at **sethankit413@gmail.com**
-- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1HTa1Vs9kRzMGa3cDxzeOp1RKhMBOFfsi/view?usp=sharing)
+- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1YBINlWC68UbmrLQaH8ipp3Lk7ZofQQp9/view?usp=sharing)
 
 ---
 
