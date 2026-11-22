@@ -69,13 +69,13 @@
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### ☁️ Cloud & Cybersecurity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
 </p>
 
 ### 🗄️ Databases & Tools
